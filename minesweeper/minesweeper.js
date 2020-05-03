@@ -333,8 +333,8 @@ var newGame = function( boardSize, mines )
 {
 	$('#time').text("0");
 	$('#messageBox').text('Make a Move!')
-					.css({'color': 'rgb(255, 255, 153)', 
-						  'background-color': 'rgb(102, 178, 255)'});
+					.css({'color': 'rgb(0, 0, 0)', 
+						  'background-color': 'rgb(255, 255, 255)'});
 	minesRemaining = mines;
 	$( '#mines-remaining').text( minesRemaining );
 	gameOver = false;
