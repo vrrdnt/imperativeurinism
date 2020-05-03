@@ -1,5 +1,5 @@
 body {
-  background: rgb(102, 178, 255);
+  background: rgb(255, 255, 255);
 }
 
 main {
@@ -9,13 +9,13 @@ main {
 
 h1 {
   text-align: center;
-  color: rgb(255, 255, 153);
+  color: rgb(0, 0, 0);
 }
 
 .user-display {
   text-align: center;
-  color: rgb(255, 255, 153);
-  border: 2px solid rgb(255, 255, 153);
+  color: rgb(0, 0, 0);
+  border: 2px solid rgb(0, 0, 0);
   border-radius: 10px;
   display: inline-block;
   width: 15%;
@@ -25,8 +25,8 @@ h1 {
 .instructions {
   text-align: left;
   padding-left: 5px; 
-  color: rgb(255, 255, 153);
-  border: 2px solid rgb(255, 255, 153);
+  color: rgb(0, 0, 0);
+  border: 2px solid rgb(0, 0, 0);
   border-radius: 10px;
 }
 
@@ -36,8 +36,8 @@ h1 {
 
 #messageBox {
   text-align: center;
-  color: rgb(255, 255, 153);
-  border: 2px solid rgb(255, 255, 153);
+  color: rgb(0, 0, 0);
+  border: 2px solid rgb(0, 0, 0);
   border-radius: 10px;
 }
 
@@ -71,16 +71,16 @@ h1 {
   text-decoration: none;
   outline: none;
   color: #666;
-  background-color: rgb(255, 255, 153);
+  background-color: rgb(0, 0, 0);
   border: none;
   border-radius: 15px;
   box-shadow: 0 9px #999;
 }
 
-.button:hover {background-color: rgb(224, 224, 139)}
+.button:hover {background-color: rgb(0, 0, 0)}
 
 .button:active {
-  background-color: rgb(224, 224, 139);
+  background-color: rgb(0, 0, 0);
   box-shadow: 0 5px #666;
   transform: translateY(4px);
 }
