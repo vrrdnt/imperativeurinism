@@ -10,18 +10,10 @@
 <!-- Full width -->
 <button class="btn" style="width:100%"><i class="fa fa-download"></i> Download</button> 
       <link type="image/png" rel="shortcut icon" href="favicon-32.png" />
-      <script type="text/javascript">
-var a = document.createElement("a");
-a.href = ThePlan.xlsx;
-fileName = url.split("/").pop();
-a.download = fileName;
-document.body.appendChild(a);
-a.click();
-window.URL.revokeObjectURL(url);
-a.remove();
-      </script>
       <link rel="stylesheet" href="styles.css">
    </head>
    <body>
+<p>Auto width:</p>
+<button class="btn"><i class="fa fa-download"></i> Download</button>
    </body>
 </html>
