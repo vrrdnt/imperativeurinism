@@ -1,52 +1,25 @@
----
-layout: minimal
----
-<doctype! HTML>
-<head>
-   <!-- Global site tag (gtag.js) - Google Analytics -->
-   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-51397701-2"></script>
-   <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      
-      gtag('config', 'UA-51397701-2');
-   </script>
-   <link rel="stylesheet" type="text/css" href="style.css">
-   <!-- Hey. This is Will. Please read these carefully - they are the basis of the newest branch of metaethics, aesthetics and morality. These must be taken seriously. -->
-   <title>Imperative Urinism</title>
-   <link type="image/x-icon" rel="shortcut icon" href="favicon.ico"/>
-   <link rel="icon" href="favicon-32.png" sizes="32x32">
-   <meta charset="utf-8">
-</head>
-<body>
-   <h1>The Commandments of Imperative Urinism</h1>
-   <ol>
-      <li>To piss in another's Mom is to achieve enlightenment.</li>
-      <li>One Shan't piss in another's Mom out of spite.</li>
-      <li>One must watch the entirety of Avatar: The Last Airbender (2005).</li>
-      <li>1+1 = tube.</li>
-      <li>這個是中文</li>
-      <li>No one else exists except for someone else.</li>
-      <li>Seriously just don't be a piece of shit. You know who you are.</li>
-      <li>Honesty - Uncle Tommy (2020)</li>
-      <li>Gosig Råtta AND Gosig Ratta</li>
-      <li>An annual feast of Eggnog and Sugar Cookies must be had during the holidays with your closest friends in attendance.</li>
-      <li>Goldfish > Pussy</li>
-      <li>Hallelujah! - Virginia</li>
-      <li>There's a wealth of knowledge in a full ashtray.</li>
-      <li>The Council convenes at Mine's Pizza + Cider.</li>
-      <li>Big Balls, Thick Fur, and Swagger.</li>
-      <li>Starting Without Alex is Like Killing a Dog.</li>
-      <li>Make every day a great day for the Empire.</li>
-      <li>"I am the seventeenth commandment" - Alexander Hard.</li>
-      <li>Trust Doja Cat with your life.</li>
-      <li>Any well-hydrated man inherently hates <a href="https://borderlands.fandom.com/wiki/Ava">Ava</a>.</li>
-      <li>Batman is the Reagan Administration and should be vilified as such.</li>
-      <li>    - Elliot</li>
-      <li>Never never never - Elliot</li>
-      <li>Everyone who has lived in Florida has wound up dead</li>
-      <li>With the money, you can have all the sex. - Joe Lewis</li>
-   </ol>
-</body>
-</html>
+# The Commandments of Imperative Urinism
+1. To piss in another's Mom is to achieve enlightenment.
+2. One Shan't piss in another's Mom out of spite.
+3. One must watch the entirety of Avatar: The Last Airbender (2005).
+4. 1+1 = tube.
+5. 這個是中文
+6. No one else exists except for someone else.
+7. Seriously just don't be a piece of shit. You know who you are.
+8. Honesty - Uncle Tommy (2020)
+9. Gosig Råtta AND Gosig Ratta
+10. An annual feast of Eggnog and Sugar Cookies must be had during the holidays with your closest friends in attendance.
+11. Goldfish > Pussy
+12. Hallelujah! - Virginia
+13. There's a wealth of knowledge in a full ashtray.
+14. The Council convenes at Mine's Pizza + Cider.
+15. Big Balls, Thick Fur, and Swagger.
+16. Starting Without Alex is Like Killing a Dog.
+17. Make every day a great day for the Empire.
+18. "I am the seventeenth commandment" - Alexander Hard.
+19. Trust Doja Cat with your life.
+20. Any well-hydrated man inherently hates [Ava]("https://borderlands.fandom.com/wiki/Ava").
+21. Batman is the Reagan Administration and should be vilified as such.
+22. Never never never - Elliot
+23. Everyone who has lived in Florida has wound up dead
+24. With the money, you can have all the sex. - Joe Lewis
