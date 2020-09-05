@@ -18,7 +18,7 @@
 17. Make every day a great day for the Empire.
 18. "I am the seventeenth commandment" - Alexander Hard.
 19. Trust Doja Cat with your life.
-20. Any well-hydrated man inherently hates [Ava]("https://borderlands.fandom.com/wiki/Ava").
+20. Any well-hydrated man inherently hates [Ava](https://borderlands.fandom.com/wiki/Ava).
 21. Batman is the Reagan Administration and should be vilified as such.
 22. Never never never - Elliot
 23. Everyone who has lived in Florida has wound up dead
