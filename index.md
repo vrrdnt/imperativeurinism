@@ -23,3 +23,4 @@
 22. Never never never - Elliot
 23. Everyone who has lived in Florida has wound up dead
 24. With the money, you can have all the sex. - Joe Lewis
+25. Love the process, hate the result.
