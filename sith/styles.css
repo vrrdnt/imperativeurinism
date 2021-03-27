@@ -1,7 +1,7 @@
-@import url(//db.onlinewebfonts.com/c/591a1311200119eefe5df87892d876be?family=Aurebesh);
+@import url(//db.onlinewebfonts.com/c/497200b6361fb01ae56ad5aa08910c89?family=Sith+Prophecy);
 
-@font-face {font-family: "Aurebesh"; src: url("https://db.onlinewebfonts.com/t/591a1311200119eefe5df87892d876be.eot"); src: url("https://db.onlinewebfonts.com/t/591a1311200119eefe5df87892d876be.eot?#iefix") format("embedded-opentype"), url("https://db.onlinewebfonts.com/t/591a1311200119eefe5df87892d876be.woff2") format("woff2"), url("https://db.onlinewebfonts.com/t/591a1311200119eefe5df87892d876be.woff") format("woff"), url("https://db.onlinewebfonts.com/t/591a1311200119eefe5df87892d876be.ttf") format("truetype"), url("https://db.onlinewebfonts.com/t/591a1311200119eefe5df87892d876be.svg#Aurebesh") format("svg"); } 
+@font-face {font-family: "Sith Prophecy"; src: url("//db.onlinewebfonts.com/t/497200b6361fb01ae56ad5aa08910c89.eot"); src: url("//db.onlinewebfonts.com/t/497200b6361fb01ae56ad5aa08910c89.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/497200b6361fb01ae56ad5aa08910c89.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/497200b6361fb01ae56ad5aa08910c89.woff") format("woff"), url("//db.onlinewebfonts.com/t/497200b6361fb01ae56ad5aa08910c89.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/497200b6361fb01ae56ad5aa08910c89.svg#Sith Prophecy") format("svg"); } 
 
 .sith {
-	font-family: Aurebesh;
+	font-family: Sith Prophecy;
 }
