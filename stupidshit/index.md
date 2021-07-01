@@ -13,3 +13,4 @@
 12. Everyone who has lived in Florida has wound up dead.
 13. With the money, you can have all the sex. - Joe Lewis  
 14. Dudes who repress it the hardest, love it the most.  
+15. If ya gotta get 'em while they're babies, that's cool.
